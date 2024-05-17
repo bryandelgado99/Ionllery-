@@ -14,10 +14,10 @@ Posteriormente, se debe correr el comando <code>npm install o npm i</code> para 
 ## Evidencias de Uso
 ### Depuración de desarrollo
 
-## Dispositivo Real
-Android version: 12 ext 11
-SDK version: 31
-Device: TECNO Pova 4 
+### Dispositivo Real
+- Android version: 12 ext 11
+- SDK version: 31
+- Device: TECNO Pova 4 
 
 ## Conclusiones
 ### Nataly Casillas
