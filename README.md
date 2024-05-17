@@ -43,7 +43,9 @@ Al desarrolar esta aplicacion aprendimos varios como de ionic como Storage nos p
 
 ### Bryan Delgado
 
-Answer 2
+Ionic proporciona una rica colección de componentes y una interfaz de usuario que permite a los desarrolladores crear aplicaciones móviles con una apariencia nativa y una experiencia de usuario fluida. Con Angular, los desarrolladores pueden beneficiarse de un marco estructurado y modular, lo que facilita la gestión del estado y la lógica de la aplicación. Capacitor, por su parte, simplifica la integración de funcionalidades nativas y permite la implementación en múltiples plataformas, lo que reduce significativamente el tiempo de desarrollo y los costos asociados.
+
+La combinación de estas tecnologías facilita el mantenimiento y la escalabilidad de la aplicación. La arquitectura basada en componentes de Angular permite reutilizar y actualizar componentes de forma eficiente, mientras que Ionic y Capacitor aseguran que la aplicación se mantenga actualizada con las últimas tecnologías y estándares nativos.
 
 
 ### Mateo Miño
